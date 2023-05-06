@@ -7,4 +7,4 @@ Much of the "cooler" code and features are in assets -> scripts
 
 there will also be an online feature. to the game which is being handled in the "server folder"
 
-This project is still in development
+This project is still in development. Working title: Where Have You Bean
