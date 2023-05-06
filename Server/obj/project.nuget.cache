@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m99dNezNqU+G9W2RNKSBchLtQ0eZIj1NxhZ4e9A0MuiqU4yHQFFIux0Ai+PHITJB9La/MzZNw/BgXP8Q+4hN1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ramal\\Desktop\\Bean Game Server\\Server\\Bean Game Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ramal\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

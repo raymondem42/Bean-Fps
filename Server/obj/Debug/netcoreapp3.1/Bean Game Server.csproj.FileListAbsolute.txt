@@ -1,0 +1,13 @@
+C:\Users\ramal\Desktop\Bean Game Server\Server\obj\Debug\netcoreapp3.1\Bean Game Server.csprojAssemblyReference.cache
+C:\Users\ramal\Desktop\Bean Game Server\Server\obj\Debug\netcoreapp3.1\Bean Game Server.AssemblyInfoInputs.cache
+C:\Users\ramal\Desktop\Bean Game Server\Server\obj\Debug\netcoreapp3.1\Bean Game Server.AssemblyInfo.cs
+C:\Users\ramal\Desktop\Bean Game Server\Server\bin\Debug\netcoreapp3.1\Bean Game Server.exe
+C:\Users\ramal\Desktop\Bean Game Server\Server\bin\Debug\netcoreapp3.1\Bean Game Server.deps.json
+C:\Users\ramal\Desktop\Bean Game Server\Server\bin\Debug\netcoreapp3.1\Bean Game Server.runtimeconfig.json
+C:\Users\ramal\Desktop\Bean Game Server\Server\bin\Debug\netcoreapp3.1\Bean Game Server.runtimeconfig.dev.json
+C:\Users\ramal\Desktop\Bean Game Server\Server\bin\Debug\netcoreapp3.1\Bean Game Server.dll
+C:\Users\ramal\Desktop\Bean Game Server\Server\bin\Debug\netcoreapp3.1\Bean Game Server.pdb
+C:\Users\ramal\Desktop\Bean Game Server\Server\obj\Debug\netcoreapp3.1\Bean Game Server.dll
+C:\Users\ramal\Desktop\Bean Game Server\Server\obj\Debug\netcoreapp3.1\Bean Game Server.pdb
+C:\Users\ramal\Desktop\Bean Game Server\Server\obj\Debug\netcoreapp3.1\Bean Game Server.genruntimeconfig.cache
+C:\Users\ramal\Desktop\Bean Game Server\Server\obj\Debug\netcoreapp3.1\Bean Game Server.csproj.CoreCompileInputs.cache
